@@ -1,0 +1,4 @@
+echo "*.ex5
+*.log
+*.tmp
+" > .gitignore
