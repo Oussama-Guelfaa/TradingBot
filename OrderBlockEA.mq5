@@ -11,7 +11,11 @@
 #include "OrderBlock_Detection.mqh"
 #include "Order_Management.mqh"
 #include "Utility_Functions.mqh"
+<<<<<<< HEAD
 
+=======
+#include "OrderBlock_Detection.mqh"
+>>>>>>> 588559d (Detect order function added)
 // Input parameters
 input double  LotSize          = 20;    // Fixed lot size
 input double  StopLossPips     = 15;    // Stop Loss in pips
@@ -131,4 +135,8 @@ void OnTick()
             i--; // Adjust the index after removal
            }
         }
+<<<<<<< HEAD
   }
+=======
+  }
+>>>>>>> 588559d (Detect order function added)
