@@ -46,8 +46,8 @@ Un bot de trading automatisé pour **MetaTrader 5 (MT5)**, conçu pour détecter
 | Paramètre          | Description                              | Valeur par défaut |
 |--------------------|------------------------------------------|-------------------|
 | `LotSize`          | Taille fixe du lot                      | `20`              |
-| `StopLossPips`     | Stop Loss en pips                       | `15`              |
-| `TakeProfitPips`   | Take Profit en pips                     | `30`              |
+| `StopLossPips`     | Stop Loss en pips                       | `5`              |
+| `TakeProfitPips`   | Take Profit en pips                     | `10`              |
 | `MaxTrades`        | Nombre maximum de transactions actives  | `10`              |
 | `FastEMAPeriod`    | Période de l'EMA rapide                 | `12`              |
 | `SlowEMAPeriod`    | Période de l'EMA lente                  | `26`              |
