@@ -26,6 +26,7 @@ Un bot de trading automatisé pour **MetaTrader 5 (MT5)**, conçu pour détecter
 ├── OrderBlock_Detection.mqh   # Détection des blocs d’ordre
 ├── Order_Management.mqh       # Gestion des ordres
 ├── Utility_Functions.mqh      # Fonctions utilitaires
+├── OrderBlock_Detection.mqh      # Détection des orderBlocks
 ```
 ## 🛠️ Installation
 
